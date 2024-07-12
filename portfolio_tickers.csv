@@ -1,0 +1,8 @@
+ticker,name,type
+SPY,SPDR S&P 500 ETF Trust,etf
+C:USDJPY,USD/JPY Foreign Exchange,forex
+AMZN,Amazon.com Inc,stock
+TSM,Taiwan Semiconductor Mfg. Co. Ltd.,stock
+AXP,American Express Company,stock
+CELH,"Celsius Holdings, Inc.",stock
+NVDA,NVIDIA Corp,stock
